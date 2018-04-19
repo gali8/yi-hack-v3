@@ -86,7 +86,7 @@ Performance is not degraded as the cameras video/audio feed is not routed throug
 
 4. Save both files on root path of microSD card.
 
-**_IMPORTANT: Make sure that the filename stored on microSD card are correct and didn't get changed. e.g. The firmware filenames for the Yi 1080p Dome camera must be home_h20 and rootfs_h20._**
+**_IMPORTANT: Make sure that the filename stored on microSD card are correct and didn't get changed. e.g. The firmware filenames for the Yi 1080p Dome camera must be home_h20 and rootfs_h20 (not home_h20.dem and rootfs_20.dem)._**
 
 5. Remove power to the camera, insert the microSD card, turn the power back ON. 
 
